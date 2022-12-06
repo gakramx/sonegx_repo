@@ -1,7 +1,8 @@
 #!/bin/bash
 #set -e
 ##################################################################################################################
-# Author 	: 	Akram Abdeslem Chaima
+# Author: Erik Dubois <erik.dubois@gmail.com>
+# Maintainer: Akram Abdeslem Chaima <akram@riseup.net>
 ##################################################################################################################
 #
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
